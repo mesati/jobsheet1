@@ -8,7 +8,7 @@ hasil Latihan 2
 hasil Latihan 3
 ![alt text](https://github.com/mesati/jobsheet1/blob/master/arimatika.PNG)
 <br>
-![alt text](https://github.com/mesati/jobsheet1/blob/master/luas balok.PNG)
+![alt text](https://github.com/mesati/jobsheet1/blob/master/luasbalok.PNG)
 <br>
 hasil Tugas Eksplorasi
 ![alt text](https://github.com/mesati/jobsheet1/blob/master/aritmatika3.PNG)
@@ -20,10 +20,10 @@ hasil Latihan 5
 ![alt text](https://github.com/mesati/jobsheet1/blob/master/kondisi.PNG)
 <br>
 hasil Latihan 6
-![alt text](https://github.com/mesati/jobsheet1/blob/master/if els.PNG)
+![alt text](https://github.com/mesati/jobsheet1/blob/master/ifels.PNG)
 <br>
 hasil Latihan 7
-![alt text](https://github.com/mesati/jobsheet1/blob/master/switch.PNG)
+![alt text](https://github.com/mesati/jobsheet1/blob/master/Switch.PNG)
 <br>
 hasil Latihan 8
 ![alt text](https://github.com/mesati/jobsheet1/blob/master/beasiswa.PNG)
