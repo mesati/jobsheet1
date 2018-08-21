@@ -61,3 +61,6 @@ latihan4<br>
 tugas praktikum<br>
 ![alt text](https://github.com/mesati/jobsheet1/blob/master/nama.PNG)
 ![alt text](https://github.com/mesati/jobsheet1/blob/master/nama1.PNG)
+
+<br>
+System.out.print hasil keluarnya berada pada 1 baris dan System.out.println hasil keluarnnya berada pada baris selanjutnya
